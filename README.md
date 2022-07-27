@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> My name is 𝒮𝐻𝐼𝒱𝒜𝑀 𝒦𝒪𝒰𝒮𝐻𝐼𝒦
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> my name is 𝒮𝐻𝐼𝒱𝒜𝑀 𝒦𝒪𝒰𝒮𝐻𝐼𝒦
 ===========================
 
 Software Developer Engineer
