@@ -18,7 +18,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Shivam-Koushik&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
      
-<div align="center"> <a href="https://skyline.github.com/Shivam-Koushik/2021" target="_blank" rel="noreferrer"><img src="https://media.istockphoto.com/vectors/click-bar-and-finger-vector-web-button-icon-template-vector-id1133992590?k=20&m=1133992590&s=170667a&w=0&h=0R9ZkjYcBeKjHZE_zwo2UXNAtFZ1bLkX_ftdZgtKDA0=" width="36" height="36" alt="Javascript" /></a></div>
+<div align="center"> <a href="https://skyline.github.com/Shivam-Koushik/2021" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4Khe9nLYL_tNWIKf1-KMx2TvNzFVePlkPJ86GVLEp7LSQUAmVpmWh1g5P3OuKGQlmw&usqp=CAU" width="36" height="36" alt="Javascript" /></a></div>
 
 ### Skills
 
