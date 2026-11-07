@@ -1,48 +1,92 @@
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> My name is SHIVAM KOUSHIK
-===========================
+ <div align="center">
 
-Software Developer Engineer
----------------------------
-![](https://komarev.com/ghpvc/?username=neerajap-01&color=brightgreen&style=flat) \
-On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SHIVAM%20KOUSHIK&fontSize=48&fontColor=ffffff&stroke=7C3AED&strokeWidth=1&animation=fadeIn&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BACKEND%20DEVELOPMENT&descAlignY=70&descSize=13&color=0:09090b,100:18102b" width="100%" alt="Shivam Koushik banner"/>
 
-* 🌍  I'm based in Meerut, Uttar Pradesh, India
-* ✉️  You can contact me at [shivamkoushik1414@gmail.com](mailto:shivamkoushik1414@gmail.com)
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I love to watch movies and especially Sci-Fi genre
+<br/>
 
-<hr>
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Shivam-Koushik&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Shivam-Koushik&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p>
-     
-<div align="center"> <a href="https://skyline.github.com/Shivam-Koushik/2022" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Click_here_button.png" width="100" height="40" alt="Javascript" /></a></div>
+**Building things. Breaking things. Understanding how things work.**
 
-### Skills
+[![Profile Views](https://komarev.com/ghpvc/?username=Shivam-Koushik&style=flat&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Shivam-Koushik)
+[![GitHub followers](https://img.shields.io/github/followers/Shivam-Koushik?style=flat&color=7C3AED&label=FOLLOWERS)](https://github.com/Shivam-Koushik?tab=followers)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+</div>
 
+---
 
-### Socials
+## 01 / THE DEVELOPER
 
-<p align="left"> 
-<a href="https://discord.com/users/Shivam-Koushik#5015" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/shivam.koushik.79/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://github.com/Shivam-Koushik?tab=overview&from=2022-07-01&to=2022-07-28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.instagram.com/the.shivam.koushik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/shivam-koushik-bba412222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://twitter.com/ShivamKoushik6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+Hey! I'm **Shivam Koushik**, a developer from Meerut, India.
 
-<!---
-Shivam-Koushik/Shivam-Koushikis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about software development, exploring new technologies, and turning ideas into working products.
+
+Currently, I'm focused on strengthening my backend development skills and growing into a Software Development Engineer.
+
+```yaml
+name: Shivam Koushik
+location: Meerut, Uttar Pradesh, India
+current_focus: Backend Development
+interests:
+  - Software Engineering
+  - Building Projects
+  - Exploring Technology
+  - Sci-Fi Movies
+collaboration: Open to interesting projects
+contact: shivamkoushik1414@gmail.com
+```
+
+## 02 / TECHNOLOGIES
+
+*Tools and technologies I'm currently working with.*
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,express,mongodb&theme=dark" alt="JavaScript, HTML, CSS, Node.js, Express and MongoDB"/>
+
+</div>
+
+| Area | Technologies |
+|:---|:---|
+| Languages | JavaScript |
+| Frontend | HTML5, CSS3 |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+
+## 03 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shivam-Koushik&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&count_private=true" alt="GitHub stats"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Koushik&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Koushik&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=9CA3AF" alt="Top languages"/>
+
+</div>
+
+## 04 / BEYOND THE CODE
+
+A few things about me:
+
+- 🎬 Sci-fi movies are my thing.
+- 🧠 Curious about how technology works beneath the surface.
+- 🌱 Always learning something new.
+- 🤝 I enjoy collaborating with people who love building things.
+
+## 05 / FIND ME ELSEWHERE
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/shivam-koushik-bba412222/)
+[![X](https://img.shields.io/badge/X-Follow-18181B?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ShivamKoushik6)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-18181B?style=for-the-badge&logo=instagram&logoColor=A78BFA)](https://www.instagram.com/the.shivam.koushik/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-18181B?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:shivamkoushik1414@gmail.com)
+
+<br/>
+
+**Thanks for stopping by.**
+
+*Curiosity is the beginning of everything.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18102b,100:09090b&height=65&section=footer" width="100%" alt="Footer decoration"/>
+
+</div>
