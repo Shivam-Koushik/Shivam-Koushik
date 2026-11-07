@@ -1,136 +1,142 @@
 <!--
-  SK / PROFILE / 2026
-  Direction: Swiss editorial. Near-black panels, off-white type, one burnt-orange accent.
-  Palette: #0B0B0B  #F2F0EA  #A5A29B  #FF6B35  #B7D96B  #2A2A2A
+  SK / PROFILE / 2026 — v2 "Field Manual"
+  Direction (from 2026 trend research): bento-grid layout, type-first headline,
+  data-dense utilitarian "instruction manual" labels, single saturated accent (electric cobalt),
+  soft multi-tonal pastels, light tactile feel. Sci-fi nod = mission-control / manual UI.
+  Palette: #F0EEE9 cloud  #111111 ink  #2F4BFF cobalt  #C9F26B lime  #FFD9C7 peach  #DCD6FF lilac
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=320&section=header&text=SHIVAM%20KOUSHIK.&fontSize=76&fontColor=F2F0EA&fontAlignY=44&desc=BUILDING%20THROUGH%20CURIOSITY&descSize=20&descAlignY=68" alt="SHIVAM KOUSHIK. Building through curiosity." width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4BFF,100:7C5CFF&height=230&section=header&text=Shivam%20Koushik&fontSize=64&fontColor=F0EEE9&fontAlignY=38&desc=backend%20developer%20%C2%B7%20curious%20by%20default&descSize=18&descAlignY=58&animation=fadeIn" alt="Shivam Koushik, backend developer, curious by default" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B35&height=4" alt="" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2F4BFF&center=true&vCenter=true&width=620&height=36&lines=Idea+%E2%86%92+something+that+actually+runs;Node.js+%C2%B7+Express+%C2%B7+MongoDB;Currently+open+to+collaboration" alt="Idea to something that actually runs. Node.js, Express, MongoDB. Open to collaboration."></a>
+
+<br>
+
+<img src="https://img.shields.io/badge/MODE-BACKEND-111111?style=flat-square&labelColor=2F4BFF&color=111111" alt="Mode: backend">
+<img src="https://img.shields.io/badge/BASE-MEERUT,_IN-111111?style=flat-square&labelColor=C9F26B&color=111111" alt="Base: Meerut, India">
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-111111?style=flat-square&labelColor=FFD9C7&color=111111" alt="Status: open to collaboration">
+<a href="https://github.com/Shivam-Koushik?tab=followers"><img src="https://img.shields.io/github/followers/Shivam-Koushik?style=flat-square&label=FOLLOWERS&labelColor=DCD6FF&color=111111" alt="GitHub followers"></a>
 
 </div>
 
+<br>
+
+<!-- ───────────── BENTO GRID ───────────── -->
+
 <table width="100%">
   <tr>
-    <td width="28%"><sub>ROLE</sub><br><b>Software Developer Engineer</b></td>
-    <td width="24%"><sub>FOCUS</sub><br><b>Backend Development</b></td>
-    <td width="22%"><sub>BASE</sub><br><b>Meerut, India</b></td>
-    <td width="26%"><sub>STATUS</sub><br><b>Open to collaboration</b></td>
+    <td width="60%" valign="top" colspan="2">
+      <code>FIG. 01 — ABOUT</code>
+      <h3>Software developer, going deep on the server side.</h3>
+      I like the moment an idea turns into something that actually runs, and the stretch before it, when I don't yet know how and have to find out. Interesting, slightly hard projects are my favourite kind. Laptop closed? Usually science fiction.
+      <br><br>
+      <a href="mailto:shivamkoushik1414@gmail.com"><img src="https://img.shields.io/badge/WRITE_TO_ME-shivamkoushik1414@gmail.com-2F4BFF?style=for-the-badge&labelColor=111111" alt="Email Shivam"></a>
+    </td>
+    <td width="40%" valign="top">
+      <code>FIG. 02 — NOW</code>
+      <h3>Exploring</h3>
+      ▸ Backend with Node.js, Express &amp; MongoDB<br>
+      ▸ New tech, one build at a time<br>
+      ▸ Challenging projects &amp; good collaborators
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <code>FIG. 03 — LANGUAGE</code>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" height="44">
+    </td>
+    <td width="30%" valign="top">
+      <code>FIG. 04 — RUNTIME</code>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" height="44">
+    </td>
+    <td width="40%" valign="top">
+      <code>FIG. 05 — DATA + FRONT</code>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,html,css&theme=light" alt="MongoDB, HTML5 and CSS3" height="44">
+    </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/01-INTRODUCTION-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="01 — Introduction">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9F26B,100:DCD6FF&height=3" alt="" width="100%">
 
-I'm a software developer from Meerut, going deep on backend development. I like the moment an idea turns into something that actually runs, and I like the stretch before it, when I don't yet know how and have to find out.
+<br>
 
-I work with JavaScript, Node.js, Express and MongoDB, I keep learning, and I'm drawn to projects that are interesting and a little challenging. When the laptop is closed, it's usually science fiction.
-
-If you're building something and want a collaborator, [write to me](mailto:shivamkoushik1414@gmail.com).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=2" alt="" width="100%">
-
-<img src="https://img.shields.io/badge/02-CURRENTLY_EXPLORING-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="02 — Currently exploring">
+## `SECTION 02` &nbsp;Shipped on GitHub
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top"><sub>FOCUS</sub><br><b>Backend development</b><br>Building the server side with Node.js, Express and MongoDB.</td>
-    <td width="33%" valign="top"><sub>PRACTICE</sub><br><b>Continuous learning</b><br>Exploring new technologies and picking up what each build asks for.</td>
-    <td width="33%" valign="top"><sub>LOOKING FOR</sub><br><b>Challenging projects</b><br>Interesting problems, good collaborators.</td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=2" alt="" width="100%">
-
-<img src="https://img.shields.io/badge/03-THE_TOOLKIT-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="03 — The toolkit">
-
-<table width="100%">
-  <tr>
-    <td width="40%"><sub>LANGUAGE</sub></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="44"></td>
-  </tr>
-  <tr>
-    <td><sub>RUNTIME + FRAMEWORK</sub></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" height="44"></td>
-  </tr>
-  <tr>
-    <td><sub>DATABASE</sub></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" height="44"></td>
-  </tr>
-  <tr>
-    <td><sub>MARKUP + STYLE</sub></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML5 and CSS3" height="44"></td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=2" alt="" width="100%">
-
-<img src="https://img.shields.io/badge/04-ON_GITHUB-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="04 — On GitHub">
-
-| № | Repository | Language |
-|:--|:--|:--|
-| 01 | [Project-1-Blogging-Site](https://github.com/Shivam-Koushik/Project-1-Blogging-Site) | JavaScript |
-| 02 | [Project-2-Open-to-Intern](https://github.com/Shivam-Koushik/Project-2-Open-to-Intern) | JavaScript |
-| 03 | [Project-3-Books-Management](https://github.com/Shivam-Koushik/Project-3-Books-Management) | JavaScript |
-| 04 | [Project-4-Scalable-URL-Shortner](https://github.com/Shivam-Koushik/Project-4-Scalable-URL-Shortner) | JavaScript |
-| 05 | [Project-5-Shopping-Cart](https://github.com/Shivam-Koushik/Project-5-Shopping-Cart) | JavaScript |
-| 06 | [Digital-Library.github.io](https://github.com/Shivam-Koushik/Digital-Library.github.io) | HTML |
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Shivam-Koushik?tab=followers"><img src="https://img.shields.io/github/followers/Shivam-Koushik?style=for-the-badge&label=FOLLOWERS&labelColor=0B0B0B&color=FF6B35" alt="GitHub followers"></a>
+    <td width="50%" valign="top">
+      <code>#01</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Project-1-Blogging-Site"><b>Blogging Site</b></a><br>
+      <sub>JavaScript</sub>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/Shivam-Koushik?tab=repositories"><img src="https://img.shields.io/badge/ALL-REPOSITORIES-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=B7D96B" alt="Browse all repositories"></a>
+    <td width="50%" valign="top">
+      <code>#02</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Project-2-Open-to-Intern"><b>Open to Intern</b></a><br>
+      <sub>JavaScript</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Shivam-Koushik&background=0B0B0B&ring=FF6B35&fire=FF6B35&currStreakNum=F2F0EA&currStreakLabel=FF6B35&sideNums=F2F0EA&sideLabels=A5A29B&dates=A5A29B&stroke=2A2A2A&hide_border=true&border_radius=0" alt="GitHub contribution streak" width="100%">
+    <td valign="top">
+      <code>#03</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Project-3-Books-Management"><b>Books Management</b></a><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td valign="top">
+      <code>#04</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Project-4-Scalable-URL-Shortner"><b>Scalable URL Shortener</b></a><br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <code>#05</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Project-5-Shopping-Cart"><b>Shopping Cart</b></a><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td valign="top">
+      <code>#06</code> &nbsp;<a href="https://github.com/Shivam-Koushik/Digital-Library.github.io"><b>Digital Library</b></a><br>
+      <sub>HTML</sub>
     </td>
   </tr>
 </table>
 
-<!--
-  Optional: the public github-readme-stats instance is shared and often rate-limited, which is why
-  these two cards were removed. If you deploy your own instance on Vercel, replace
-  YOUR-INSTANCE.vercel.app and restore them inside the table above.
+<div align="center">
 
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=Shivam-Koushik&show_icons=true&hide_border=true&border_radius=0&bg_color=0B0B0B&title_color=FF6B35&text_color=F2F0EA&icon_color=B7D96B" alt="GitHub statistics for Shivam-Koushik" width="100%">
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Shivam-Koushik&layout=compact&hide_border=true&border_radius=0&bg_color=0B0B0B&title_color=FF6B35&text_color=F2F0EA" alt="Most used languages on GitHub" width="100%">
--->
+<br>
 
-<sub>The streak card is served live by a third-party service and can take a moment to load.</sub>
+<img src="https://streak-stats.demolab.com/?user=Shivam-Koushik&theme=default&background=F0EEE9&ring=2F4BFF&fire=2F4BFF&currStreakNum=111111&currStreakLabel=2F4BFF&sideNums=111111&sideLabels=555555&dates=777777&stroke=111111&border_radius=12" alt="GitHub contribution streak" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=2" alt="" width="100%">
+<sub>Streak card is served live by a third-party service and can take a moment to load.</sub>
 
-<img src="https://img.shields.io/badge/05-OUTSIDE_THE_TERMINAL-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="05 — Outside the terminal">
+</div>
+
+<br>
+
+## `SECTION 03` &nbsp;Off the clock
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top"><sub>i.</sub><br><b>Sci-fi films</b><br>The genre I come back to.</td>
-    <td width="25%" valign="top"><sub>ii.</sub><br><b>Technology</b><br>Following what's new.</td>
-    <td width="25%" valign="top"><sub>iii.</sub><br><b>Learning</b><br>Never really finished.</td>
-    <td width="25%" valign="top"><sub>iv.</sub><br><b>Collaboration</b><br>Always open to it.</td>
+    <td width="25%" valign="top"><code>i.</code><br><b>Sci-fi films</b><br><sub>The genre I return to.</sub></td>
+    <td width="25%" valign="top"><code>ii.</code><br><b>Technology</b><br><sub>Following what's new.</sub></td>
+    <td width="25%" valign="top"><code>iii.</code><br><b>Learning</b><br><sub>Never really finished.</sub></td>
+    <td width="25%" valign="top"><code>iv.</code><br><b>Collaboration</b><br><sub>Always open to it.</sub></td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=2" alt="" width="100%">
+<br>
 
-<img src="https://img.shields.io/badge/06-CONNECTIONS-0B0B0B?style=for-the-badge&labelColor=FF6B35" alt="06 — Connections">
+## `SECTION 04` &nbsp;Signal
 
-<table width="100%">
-  <tr align="center">
-    <td width="20%"><a href="https://github.com/Shivam-Koushik"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48"></a><br><sub>GITHUB</sub></td>
-    <td width="20%"><a href="https://www.linkedin.com/in/shivam-koushik-bba412222/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48"></a><br><sub>LINKEDIN</sub></td>
-    <td width="20%"><a href="https://twitter.com/ShivamKoushik6"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X (Twitter)" width="48"></a><br><sub>X</sub></td>
-    <td width="20%"><a href="https://www.instagram.com/the.shivam.koushik/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="48"></a><br><sub>INSTAGRAM</sub></td>
-    <td width="20%"><a href="mailto:shivamkoushik1414@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="48"></a><br><sub>EMAIL</sub></td>
-  </tr>
-</table>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=110&section=footer&text=SK%20%C2%B7%20MEERUT%20%C2%B7%202026&fontSize=18&fontColor=A5A29B&fontAlignY=60" alt="Shivam Koushik, Meerut, 2026" width="100%">
+<a href="https://github.com/Shivam-Koushik"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F0EEE9" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/shivam-koushik-bba412222/"><img src="https://img.shields.io/badge/LinkedIn-2F4BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/ShivamKoushik6"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=F0EEE9" alt="X (Twitter)"></a>
+<a href="https://www.instagram.com/the.shivam.koushik/"><img src="https://img.shields.io/badge/Instagram-7C5CFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:shivamkoushik1414@gmail.com"><img src="https://img.shields.io/badge/Email-C9F26B?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email"></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:2F4BFF&height=110&section=footer&text=Meerut%20%C2%B7%202026&fontSize=16&fontColor=F0EEE9&fontAlignY=68" alt="Meerut, 2026" width="100%">
