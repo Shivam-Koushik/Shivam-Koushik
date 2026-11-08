@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2F4BFF"/><stop offset="1" stop-color="#7C5CFF"/></linearGradient><pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M15 11v8M11 15h8" stroke="#F0EEE9" stroke-opacity=".18" stroke-width="1"/></pattern></defs>
+<style>
+.r{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+.f{animation:float 5s ease-in-out infinite}
+.f2{animation:float 7s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-out infinite}
+.cur{animation:blink 1s steps(1) infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow .9s .4s cubic-bezier(.2,.7,.2,1) forwards}
+.growy{transform-box:fill-box;transform-origin:top center;transform:scaleY(0);animation:growy .7s .3s cubic-bezier(.2,.7,.2,1) forwards}
+.nudge{animation:nudge 2.2s ease-in-out infinite}
+.dash{animation:dash 1.6s linear infinite}
+.card{transition:fill .2s}
+.card:hover{fill:#FFFFFF}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes growy{to{transform:scaleY(1)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes dash{to{stroke-dashoffset:-32}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.r{opacity:1!important}.grow{transform:none!important}.growy{transform:none!important}}
+</style>
+<title>Shivam Koushik, backend developer</title>
+<rect width="900" height="300" rx="22" fill="url(#g)"/>
+<rect width="900" height="300" rx="22" fill="url(#p)"/>
+<circle class="f" cx="770" cy="120" r="74" fill="#C9F26B"/>
+<circle class="f2" cx="836" cy="240" r="38" fill="#FFD9C7"/>
+<circle class="f2" cx="690" cy="236" r="16" fill="#DCD6FF"/>
+<text class="r" x="44" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="2.5" fill="#F0EEE9" style="animation-delay:.1s">BACKEND DEVELOPER · MEERUT, IN</text>
+<text class="r" x="40" y="172" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="-3" fill="#F0EEE9" style="animation-delay:.25s">Shivam</text>
+<text class="r" x="40" y="258" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="-3" fill="#F0EEE9" style="animation-delay:.45s">Koushik<tspan fill="#C9F26B">.</tspan></text>
+<text class="r" x="560" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#F0EEE9" text-anchor="start" style="animation-delay:.9s;display:none"></text>
+</svg>

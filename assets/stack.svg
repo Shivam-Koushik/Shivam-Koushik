@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="900" height="112" role="img">
+<defs></defs>
+<style>
+.r{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+.f{animation:float 5s ease-in-out infinite}
+.f2{animation:float 7s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-out infinite}
+.cur{animation:blink 1s steps(1) infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow .9s .4s cubic-bezier(.2,.7,.2,1) forwards}
+.growy{transform-box:fill-box;transform-origin:top center;transform:scaleY(0);animation:growy .7s .3s cubic-bezier(.2,.7,.2,1) forwards}
+.nudge{animation:nudge 2.2s ease-in-out infinite}
+.dash{animation:dash 1.6s linear infinite}
+.card{transition:fill .2s}
+.card:hover{fill:#FFFFFF}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes growy{to{transform:scaleY(1)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes dash{to{stroke-dashoffset:-32}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.r{opacity:1!important}.grow{transform:none!important}.growy{transform:none!important}}
+</style>
+<title>Toolkit: JavaScript, Node.js, Express, MongoDB, HTML5, CSS3</title>
+<text class="r" x="4" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2.5" fill="#2F4BFF" font-weight="700">TOOLKIT</text>
+<g class="f" style="animation-delay:0.0s"><g class="r" style="animation-delay:0.2s"><rect x="2" y="46" width="156" height="48" rx="24" fill="#C9F26B" stroke="#111111" stroke-width="2.5"/><text x="80.0" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">JavaScript</text></g></g><g class="f2" style="animation-delay:0.4s"><g class="r" style="animation-delay:0.3s"><rect x="172" y="46" width="123" height="48" rx="24" fill="#DCD6FF" stroke="#111111" stroke-width="2.5"/><text x="233.5" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">Node.js</text></g></g><g class="f" style="animation-delay:0.8s"><g class="r" style="animation-delay:0.4s"><rect x="309" y="46" width="123" height="48" rx="24" fill="#FFD9C7" stroke="#111111" stroke-width="2.5"/><text x="370.5" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">Express</text></g></g><g class="f2" style="animation-delay:1.2000000000000002s"><g class="r" style="animation-delay:0.5s"><rect x="446" y="46" width="123" height="48" rx="24" fill="#2F4BFF" stroke="#111111" stroke-width="2.5"/><text x="507.5" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">MongoDB</text></g></g><g class="f" style="animation-delay:1.6s"><g class="r" style="animation-delay:0.6s"><rect x="583" y="46" width="101" height="48" rx="24" fill="#C9F26B" stroke="#111111" stroke-width="2.5"/><text x="633.5" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">HTML5</text></g></g><g class="f2" style="animation-delay:2.0s"><g class="r" style="animation-delay:0.7s"><rect x="698" y="46" width="90" height="48" rx="24" fill="#DCD6FF" stroke="#111111" stroke-width="2.5"/><text x="743.0" y="76" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">CSS3</text></g></g>
+</svg>
