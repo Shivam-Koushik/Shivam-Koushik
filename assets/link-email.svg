@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
@@ -23,7 +23,7 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.r{opacity:1!important}.grow{transform:none!important}.growy{transform:none!important}}
 </style>
 <title>Email</title>
-<rect class="card" x="1" y="1" width="92" height="40" rx="20" fill="#C9F26B" stroke="#111111" stroke-width="2"/>
+<rect class="card" x="1" y="1" width="92" height="40" rx="20" fill="#B5C29E" stroke="#111111" stroke-width="2"/>
 <text x="41.0" y="26" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#111111">Email</text>
 <text class="nudge" x="68" y="26" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#111111">↗</text>
 </svg>

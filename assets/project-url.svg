@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
@@ -24,9 +24,9 @@
 </style>
 <title>Scalable URL Shortener (JavaScript)</title>
 <rect class="card" x="1.5" y="1.5" width="437" height="93" rx="18" fill="#F0EEE9" stroke="#111111" stroke-width="2.5"/>
-<rect class="growy" x="1.5" y="1.5" width="14" height="93" rx="7" fill="#C9F26B" stroke="#111111" stroke-width="2.5"/>
+<rect class="growy" x="1.5" y="1.5" width="14" height="93" rx="7" fill="#B5C29E" stroke="#111111" stroke-width="2.5"/>
 <text class="r" x="38" y="46" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="800" fill="#111111" letter-spacing="-.3">Scalable URL Shortener</text>
-<circle cx="42" cy="68" r="5" fill="#2F4BFF"/>
+<circle cx="42" cy="68" r="5" fill="#2F4B7C"/>
 <text class="r" x="54" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#555" style="animation-delay:.2s">JavaScript</text>
-<text class="nudge" x="396" y="56" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#2F4BFF">↗</text>
+<text class="nudge" x="396" y="56" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#2F4B7C">↗</text>
 </svg>

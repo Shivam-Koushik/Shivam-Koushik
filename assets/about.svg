@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
@@ -24,8 +24,8 @@
 </style>
 <title>About</title>
 <rect class="card" x="1.5" y="1.5" width="557" height="267" rx="22" fill="#F0EEE9" stroke="#111111" stroke-width="2.5"/>
-<text class="r" x="32" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2.5" fill="#2F4BFF" font-weight="700">ABOUT</text>
-<rect class="grow" x="32" y="55" width="54" height="4" rx="2" fill="#2F4BFF"/>
+<text class="r" x="32" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2.5" fill="#2F4B7C" font-weight="700">ABOUT</text>
+<rect class="grow" x="32" y="55" width="54" height="4" rx="2" fill="#2F4B7C"/>
 <text class="r" x="32" y="94" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#111111" letter-spacing="-.5" style="animation-delay:.2s">Software developer, going deep</text>
 <text class="r" x="32" y="123" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#111111" letter-spacing="-.5" style="animation-delay:.3s">on the server side.</text>
 <text class="r" x="32" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#333" style="animation-delay:0.50s">I like the moment an idea turns into something that</text><text class="r" x="32" y="173" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#333" style="animation-delay:0.62s">actually runs, and the stretch before it, when I don't</text><text class="r" x="32" y="196" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#333" style="animation-delay:0.74s">yet know how and have to find out. Interesting, slightly</text><text class="r" x="32" y="219" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#333" style="animation-delay:0.86s">hard projects are my favourite kind. Laptop closed?</text><text class="r" x="32" y="242" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#333" style="animation-delay:0.98s">Usually science fiction.</text>

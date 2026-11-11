@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110" role="img">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#2F4BFF"/></linearGradient></defs>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4E5486"/><stop offset="1" stop-color="#2F4B7C"/></linearGradient></defs>
 <style>
 .r{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
 .f{animation:float 5s ease-in-out infinite}
@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
@@ -24,8 +24,8 @@
 </style>
 <title>Meerut, 2026</title>
 <rect width="900" height="110" rx="22" fill="url(#g)"/>
-<circle class="f" cx="90" cy="55" r="26" fill="#C9F26B"/>
-<circle class="f2" cx="820" cy="60" r="18" fill="#FFD9C7"/>
-<circle class="f" cx="750" cy="30" r="8" fill="#DCD6FF"/>
+<circle class="f" cx="90" cy="55" r="26" fill="#B5C29E"/>
+<circle class="f2" cx="820" cy="60" r="18" fill="#DCC9BA"/>
+<circle class="f" cx="750" cy="30" r="8" fill="#CDD0E0"/>
 <text x="450" y="64" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#F0EEE9" letter-spacing="-.5">Meerut · 2026</text>
 </svg>

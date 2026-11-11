@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}

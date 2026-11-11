@@ -11,7 +11,7 @@
 .nudge{animation:nudge 2.2s ease-in-out infinite}
 .dash{animation:dash 1.6s linear infinite}
 .card{transition:fill .2s}
-.card:hover{fill:#FFFFFF}
+.card:hover{fill:#F8F6F1}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 @keyframes pulse{0%{transform:scale(1);opacity:1}100%{transform:scale(2.6);opacity:0}}
@@ -23,7 +23,7 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.r{opacity:1!important}.grow{transform:none!important}.growy{transform:none!important}}
 </style>
 <title>Open to collaboration</title>
-<rect x="1" y="1" width="258" height="42" rx="21" fill="#C9F26B" stroke="#111111" stroke-width="2"/>
-<circle class="dot" cx="26" cy="22" r="6" fill="#2F4BFF"/><circle cx="26" cy="22" r="6" fill="#2F4BFF"/>
+<rect x="1" y="1" width="258" height="42" rx="21" fill="#B5C29E" stroke="#111111" stroke-width="2"/>
+<circle class="dot" cx="26" cy="22" r="6" fill="#2F4B7C"/><circle cx="26" cy="22" r="6" fill="#2F4B7C"/>
 <text x="44" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#111111" letter-spacing=".5">Open to collaboration</text>
 </svg>
